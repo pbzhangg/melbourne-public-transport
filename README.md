@@ -39,11 +39,10 @@ Key features include:
 
 | Dataset | Source | Purpose |
 | --- | --- | --- |
-| Regional Population Estimates, 2001–2024[https://www.abs.gov.au/statistics/people/population/regional-population/2023-24#data-downloads] | Australian Bureau of Statistics (ABS) | Historical population and population growth at the SA2 level |
-| Victorian GTFS Schedule[https://discover.data.vic.gov.au/dataset/gtfs-schedule] | Victorian Government | Public transport service intensity, frequency and coverage |
-| Census SA2 GeoPackage[https://www.abs.gov.au/census/find-census-data/geopackages?release=2021&geography=VIC&gda=GDA2020&topic=HIHC] | Australian Bureau of Statistics (ABS) | SA2 geographic boundaries and spatial analysis |
-| SEIFA 2021[https://www.abs.gov.au/statistics/people/people-and-communities/socio-economic-indexes-ar
-eas-seifa-australia/latest-release] | Australian Bureau of Statistics (ABS) | Socioeconomic disadvantage analysis |
+| [Regional Population Estimates, 2001–2024](https://www.abs.gov.au/statistics/people/population/regional-population/2023-24#data-downloads) | Australian Bureau of Statistics (ABS) | Historical population and population growth at the SA2 level |
+| [Victorian GTFS Schedule](https://discover.data.vic.gov.au/dataset/gtfs-schedule) | Victorian Government | Public transport service intensity, frequency and coverage |
+| [Census SA2 GeoPackage](https://www.abs.gov.au/census/find-census-data/geopackages?release=2021&geography=VIC&gda=GDA2020&topic=HIHC) | Australian Bureau of Statistics (ABS) | SA2 geographic boundaries and spatial analysis |
+| [SEIFA 2021](https://www.abs.gov.au/statistics/people/people-and-communities/socio-economic-indexes-areas-seifa-australia/latest-release)| Australian Bureau of Statistics (ABS) | Socioeconomic disadvantage analysis |
 
 > **Note:** Large raw and intermediate datasets are not included in this repository due to file-size constraints. These datasets can be obtained from their original sources and processed using the scripts provided in the `R/` directory. The large spatial dataset `map_data.rds`, used by the interactive dashboard, is also excluded due to its file size.
 
